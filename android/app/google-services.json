@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895826137983",
+    "project_id": "vtrealproject",
+    "storage_bucket": "vtrealproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895826137983:android:035fd56b22b3ff25c3404a",
+        "android_client_info": {
+          "package_name": "com.vtreal.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895826137983-c253u97ss9qgkm7jdgg5grvpa2nd4pm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhw5mfqRvhfiyuJBKhqQUQ2vPyguET9IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895826137983-c253u97ss9qgkm7jdgg5grvpa2nd4pm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
